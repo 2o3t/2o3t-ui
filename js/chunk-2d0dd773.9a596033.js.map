@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/components/4-4-Tabs/config.js"],"names":["LABEL","DESC"],"mappings":"gHAAA,OAAe,cACXA,MAAO,WACPC,KAAM","file":"js/chunk-2d0dd773.9a596033.js","sourcesContent":["export default {\n    LABEL: 'Tabs 标签页',\n    DESC: '分隔内容上有关联但属于不同类别的数据集合。',\n};\n"],"sourceRoot":""}

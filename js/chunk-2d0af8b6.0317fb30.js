@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0af8b6"],{"0f7a":function(E,L,a){"use strict";a.r(L),L["default"]={LABEL:"Radio 单选框",DESC:"在一组备选项中进行单选",COMPONENTS:{Base:{LABEL:"基础用法",DESC:""},Border:{LABEL:"边框",DESC:""},Round:{LABEL:"圆角",DESC:""},Disabled:{LABEL:"禁用状态",DESC:""},Size:{LABEL:"大小",DESC:"提供了 mini、small、normal、big 四种尺寸."}}}}}]);
+//# sourceMappingURL=chunk-2d0af8b6.0317fb30.js.map

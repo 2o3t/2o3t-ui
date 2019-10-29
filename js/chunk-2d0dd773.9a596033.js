@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0dd773"],{8203:function(n,d,s){"use strict";s.r(d),d["default"]={LABEL:"Tabs 标签页",DESC:"分隔内容上有关联但属于不同类别的数据集合。"}}}]);
+//# sourceMappingURL=chunk-2d0dd773.9a596033.js.map

@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0c1f2d"],{"47e9":function(i,n,E){"use strict";E.r(n),n["default"]={LABEL:"Arrow 箭头",DESC:"常用的四个方向箭头。",COMPONENTS:{Base:{LABEL:"基础用法",DESC:""},Disabled:{LABEL:"禁用状态",DESC:""},Size:{LABEL:"大小",DESC:"提供了 mini、small、normal、big 四种尺寸."}}}}}]);
+//# sourceMappingURL=chunk-2d0c1f2d.56940d18.js.map
